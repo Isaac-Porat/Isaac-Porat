@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🧑‍🎓 I am a 2027 undergraduate student at Northeastern University, studying Computer Science & Business Administration
+- 🧠 Passion for bringing complex ideas to life through beautiful design and efficient engineering
+- 📈 1% better everyday towards the absolute best version of yourself
+
 <!--
 **Isaac-Porat/Isaac-Porat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

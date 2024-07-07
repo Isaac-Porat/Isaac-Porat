@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 - 🧑‍🎓 I am a 2027 undergraduate student at Northeastern University, studying Computer Science & Business Administration
+
 - 🧠 Passion for bringing complex ideas to life through beautiful design and efficient engineering
+
 - 📈 1% better everyday towards the absolute best version of yourself
 
 <!--

@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello, I'm Zak 👋
 
-<!--
-**Isaac-Porat/Isaac-Porat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm a Computer Science & Finance student at Northeastern University, graduating in 2027. My passion lies at the intersection of technology and business, with a particular focus on:
 
-Here are some ideas to get you started:
+- 🤖 Artificial Intelligence
+- 💹 Finance
+- 🏢 B2B Solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Philosophy
+I thrive on innovation and creating new solutions to challenging problems. As a builder at heart, I'm constantly exploring ways to leverage emerging technologies to develop impactful products and services.
+Let's Connect
+I'm always open to collaboration, learning opportunities, and interesting conversations! Feel free to reach out if you share similar interests or have exciting projects in mind.

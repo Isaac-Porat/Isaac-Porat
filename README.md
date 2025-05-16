@@ -11,3 +11,7 @@ I'm a Computer Science & Finance student at Northeastern University, graduating 
 I thrive on innovation and creating new solutions to challenging problems. As a builder at heart, I'm constantly exploring ways to leverage emerging technologies to develop impactful products and services.
 Let's Connect
 I'm always open to collaboration, learning opportunities, and interesting conversations! Feel free to reach out if you share similar interests or have exciting projects in mind.
+
+### What I'm Working On
+🚀 B2B Acquisition Platform
+I'm developing an alternative to Clay[dot]com designed specifically for smaller B2B companies. This platform aims to significantly reduce customer acquisition and fulfillment costs, making enterprise-grade lead generation tools accessible to growing businesses.
